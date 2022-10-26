@@ -7,7 +7,7 @@ export const AboutPage: React.FC = () => {
     <>
       <h1>Posts</h1>
       <p>
-        Socjalna sieć dla programmistów
+       <p> Socjalna sieć dla programmistów </p>
  <p>Przyszła funkcjonalność programu: </p>
  <p> 1. Strona logowania </p>
   <p>2. Strona profilowa </p>
